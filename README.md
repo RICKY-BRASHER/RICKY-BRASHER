@@ -1,4 +1,4 @@
-# Rick Stéphane Hentcho
+# 👨‍💻 Rick Stéphane (BRASHER)
 
 <div align="center">
 
