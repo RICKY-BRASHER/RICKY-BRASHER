@@ -153,4 +153,3 @@ Je suis toujours ouvert aux échanges autour de :
 
 "Transforming raw data into valuable insights."
 
-</
